@@ -1,7 +1,7 @@
 README
 
 
-	This is almost my first ever microcontroller project, I made this device for my girlfriend's birthday 
+	This was almost my first ever microcontroller project, I made this device for my girlfriend's birthday in 2024
 while asking her to be my girlfriend at the same time. Thought it was a clever idea to ask her lol.
 I made this years ago but did not add on github. We are now still together and happy, planning to marry her.
 Hardwares used:
